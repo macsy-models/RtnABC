@@ -14,5 +14,4 @@
             <gene name="cProt"/>
         </exchangeables>
     </gene>
-    <gene name="XxProt" presence="neutral"/>
 </model>

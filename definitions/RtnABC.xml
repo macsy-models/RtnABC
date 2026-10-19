@@ -1,17 +1,5 @@
-<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
-    <gene name="RtnA" presence="mandatory">
-        <exchangeables>
-            <gene name="aProt"/>
-        </exchangeables>
-    </gene>
-    <gene name="RtnB" presence="mandatory">
-        <exchangeables>
-            <gene name="bProt"/>
-        </exchangeables>
-    </gene>
-    <gene name="RtnC" presence="mandatory">
-        <exchangeables>
-            <gene name="cProt"/>
-        </exchangeables>
-    </gene>
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" vers="2.0">
+    <gene name="RtnA" presence="mandatory"/>
+    <gene name="RtnB" presence="mandatory"/>
+    <gene name="RtnC" presence="mandatory"/>
 </model>
